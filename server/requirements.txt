@@ -3,7 +3,7 @@ scikit-learn
 pandas
 flask
 joblib
-json
+jsonlib
 base64
 cv2
 wavelet
