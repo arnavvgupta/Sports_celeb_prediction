@@ -3,7 +3,7 @@ scikit-learn
 pandas
 flask
 joblib
-jsonlib
+jsonlib-python3
 pybase64
 opencv-python
 PyWavelets
